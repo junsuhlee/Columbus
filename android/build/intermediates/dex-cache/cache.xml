@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/release/xmpcore-5.1.2-49d375f4595ceb29c9c1f07ac1859e01433885d7.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-b8f107b39851448e5989a9cd75cf7d191a344c12.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-92034e370601d30b55cd98f5af69a6e03941a756.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-57d40705a80a05368f798e3a2607afe8b6be555e.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86a10a3af45f2c46b8dcfcb41220821d10794699">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-a3c6d9da6b191e9385ee11c3424412ca802c0377.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-4a3b114b6781c37cbe459526ea3ace82e54402a2.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-feedac7e64b9529289caba241193a90c4fd79a6a.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-e3e1dfcdf1091ad62101747e52cf18170b899a78.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-1215a4881434bf3cb8045dab4cd85426a1ae46a8.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/release/metadata-extractor-2.9.1-81403443dc90447806720a97bfe4f83c745124ca.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-b7417fcce1e748d4dccbcd5fffd7780319ca611b.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/Columbus/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="20612595041b0f02696d59543cb458a785e18dd2">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-5dc543d94d30813428e1c332bc3ac85be908e4b5.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-dc713eca1b68f0827e0bbbdbb8ce8d02622a26b0.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-a23be9c026fa6aa3d78b8fc957c1211fd25df165.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-8026cb87d7ba8740a0fa75f34df2ccdf0d7912a6.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-b64d0aaebd612e64d8c19002cd6f1c00e9fa086c.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-5c1d92292732458b3cb6575d3abf00879c3f9151.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-2509bae75d10a64d90a16f1e7f7d392d9d4059d6.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-3a9fa2db5e957d42c7f74ab76a281f86f6e39c72.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-7aad2f4df60dc69e0c016e9feac2f46f7f9dfef7.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-87df189817b5c5dfc0d5feaf3f594729d998d389.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/release/core-3.2.1-23fd5a67fd72e64cce106199fc9f47b905aa9f1c.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-92895a64c168ed99263359e72deec7b5117a1ed2.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-aaf8b06116f763191563d14a5344e6c3db390848.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="849357db0dcadfb604ea1ec3a185b276d98e997c">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-97ee8ba7768c882de423f39ab84dcd6d21e7a2fe.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-322b23a0ca8e3c1eb20c0e828a325fde7ff68f8d.jar" />
+    </item>
+    <item
+        jar="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/junsuhlee/projectColumbus/Columbus/android/app/build/intermediates/pre-dexed/debug/classes-ad35e6859ca9541121fcc98f33dd1e98a57fb7d8.jar" />
+    </item>
+
+</items>
